@@ -2,8 +2,44 @@ div {
   float: left;
 }
 
-#first {
+/* **************************** */
+/* **************************** */
+.box, #a1, #b2, #c3 {
   width: 100px;
   height: 100px;
+  background-color: lawngreen;
+  margin: 15px;
+  border-radius: 25px;
 }
+
+/* **************************** */
+.first {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  height: 100px;
+  margin: 15px;
+  border-radius: 20px;
+}
+
+.second {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  height: 200px;
+  margin: 15px;
+  border-radius: 20px;
+}
+
+.third {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  height: 300px;
+  margin: 15px;
+  border-radius: 20px;
+}
+
+/* **************************** */
+/* "box" degisken bir isim */
 /*# sourceMappingURL=mixin.css.map */
